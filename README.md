@@ -5,7 +5,8 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/Cfomodz)
 ![Discord](https://img.shields.io/discord/425182625032962049)
 
-<img src="https://github.com/user-attachments/assets/72c128b7-3e54-4c47-b0e5-d5fbf979342c" alt="Etsy Export Tool" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/351de7fc-5df9-420f-b2de-ba4f9bdd6827" alt="Etsy Export Tool" width="400"/>
 
 ### A Python tool to export your Etsy inventory to a CSV file  
 
